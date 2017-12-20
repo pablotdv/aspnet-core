@@ -1,0 +1,10 @@
+D:\Estudos\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.deps.json
+D:\Estudos\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.runtimeconfig.json
+D:\Estudos\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.runtimeconfig.dev.json
+D:\Estudos\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.dll
+D:\Estudos\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.pdb
+D:\Estudos\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.csproj.CoreCompileInputs.cache
+D:\Estudos\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.AssemblyInfoInputs.cache
+D:\Estudos\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.AssemblyInfo.cs
+D:\Estudos\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.dll
+D:\Estudos\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.pdb
