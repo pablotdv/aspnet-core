@@ -1,0 +1,10 @@
+D:\Estudos\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.deps.json
+D:\Estudos\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.json
+D:\Estudos\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.dev.json
+D:\Estudos\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.dll
+D:\Estudos\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.pdb
+D:\Estudos\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+D:\Estudos\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfoInputs.cache
+D:\Estudos\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfo.cs
+D:\Estudos\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.dll
+D:\Estudos\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.pdb
