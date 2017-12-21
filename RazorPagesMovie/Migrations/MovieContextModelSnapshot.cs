@@ -34,7 +34,7 @@ namespace RazorPagesMovie.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Movies");
+                    b.ToTable("Movie");
                 });
 #pragma warning restore 612, 618
         }
